@@ -57,6 +57,15 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        glass: {
+          bg: "hsl(var(--glass-bg))",
+          border: "hsl(var(--glass-border))",
+          shadow: "hsl(var(--glass-shadow))",
+        },
+        shimmer: {
+          gold: "hsl(var(--shimmer-gold))",
+          platinum: "hsl(var(--shimmer-platinum))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
